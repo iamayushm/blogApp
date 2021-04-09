@@ -6,6 +6,6 @@ A basic blog app where user can add a post,update a post and delete a post.
 
 1) Clone the project -> git clone https://github.com/iamayushm/blogApp.git
 
-2) Navigate into the project directory ->  $ cd BlogApp
+2) Navigate into the project directory ->  $ cd blogApp
 
 3) Run the project -> $ npm start
