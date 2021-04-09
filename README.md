@@ -1,4 +1,4 @@
-# blogApp
+# BlogApp
 
 A basic blog app where user can add a post,update a post and delete a post.
 
